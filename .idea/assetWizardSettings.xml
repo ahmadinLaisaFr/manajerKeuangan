@@ -312,7 +312,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/settings/baseline_settings_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Users/MUHAMMAD%20RIZKY%20F/AppData/Local/Android/Sdk/icons/material/materialicons/call_to_action/baseline_call_to_action_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -322,7 +322,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="setting" />
+                            <entry key="color" value="34eed7" />
+                            <entry key="outputName" value="ic_baseline_call_to_action_24" />
                             <entry key="sourceFile" value="D:\frenzyDevel\manajerKeuangan-ahmadin" />
                           </map>
                         </option>
