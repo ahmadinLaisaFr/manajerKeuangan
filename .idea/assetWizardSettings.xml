@@ -312,7 +312,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/settings/baseline_settings_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/arrow_downward/baseline_arrow_downward_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -322,7 +322,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="setting" />
+                            <entry key="color" value="ff0000" />
+                            <entry key="outputName" value="panahbawah" />
                             <entry key="sourceFile" value="D:\frenzyDevel\manajerKeuangan-ahmadin" />
                           </map>
                         </option>

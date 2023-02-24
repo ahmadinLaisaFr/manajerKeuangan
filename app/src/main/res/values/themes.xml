@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.ManajerKeuangan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimary">@color/black</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
@@ -26,8 +26,7 @@
             #fff
         </item>
     </style>
-
-    <style name="homeAct" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-
+    <style name="uangmasuk">
+        <item name="android:textColor">#000</item>
     </style>
 </resources>
