@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Manajer_Keuangan.iml" filepath="$PROJECT_DIR$/.idea/modules/Manajer_Keuangan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Manajer_Keuangan.app.unitTest.iml" />
     </modules>
   </component>
