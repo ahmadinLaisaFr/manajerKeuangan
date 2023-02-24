@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.ManajerKeuangan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimary">#fff000</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
@@ -11,14 +11,25 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="convertDarkToNight">
+        <item name="android:textColor">@color/black</item>
+        <item name="colorOnPrimary">#000</item>
+    </style>
     <style name="bottomNav">
         <item name="colorSurface">#FFEB3B</item>
         <item name="colorPrimary">#000</item>
         <item name="colorOnSurface">#302B03</item>
     </style>
+    <style name="buttonNight">
+        <item name="colorOnPrimary">#fff</item>
+        <item name="android:backgroundTint">#000</item>
+    </style>
     <style name="bgScroll">
         <item name="android:background">
             #000
         </item>
+    </style>
+    <style name="uangmasuk">
+        <item name="android:textColor">#000</item>
     </style>
 </resources>

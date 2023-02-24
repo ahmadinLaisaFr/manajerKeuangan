@@ -5,11 +5,13 @@
       <map>
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/drawable/app_logo_background.xml" value="0.2165" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/drawable/home.xml" value="0.2165" />
+        <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/activity_editor.xml" value="0.25" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/activity_main.xml" value="0.19" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/activity_splash.xml" value="0.1953125" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/fragment_add.xml" value="0.2" />
-        <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/layout/list_uang.xml" value="0.33" />
         <entry key="..\:/frenzyDevel/manajerKeuangan-ahmadin/app/src/main/res/menu/menu.xml" value="0.20833333333333334" />
       </map>
     </option>
