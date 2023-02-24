@@ -97,7 +97,7 @@ public class Add extends Fragment {
                 int bln = cal.get(Calendar.MONTH);
                 int tgl = cal.get(Calendar.DAY_OF_MONTH);
 
-                DatePickerDialog dialog = new DatePickerDialog(getContext(), android.R.style.Theme_DeviceDefault_Dialog, dateSetListener, tgl, bln, thn);
+                DatePickerDialog dialog = new DatePickerDialog(getContext(), android.R.style.Theme_DeviceDefault_Dialog, dateSetListener, thn, bln, tgl);
 
                 dialog.show();
             }
@@ -107,7 +107,7 @@ public class Add extends Fragment {
             @Override
             public void onDateSet(DatePicker datePicker, int thn, int bln, int tgl) {
                       bln = bln+1;
-                Log.d(TAG, "onDateSet: dd/mm/yyyy" +thn+"-"+bln+"-"+tgl);
+                Log.d(TAG, "onDateSet: dd/mm/yyyy: " +thn+"-"+bln+"-"+tgl);
 
 
                 String date= tgl+"-"+bln+"-"+thn;

@@ -10,7 +10,9 @@
     <androidx.cardview.widget.CardView
         android:layout_width="391dp"
         android:layout_height="337dp"
-        android:clipToPadding="false"
+        android:clipToPadding="true"
+        android:layout_marginTop="90dp"
+        margin
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -22,6 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:paddingTop="30dp"
             >
 
             <LinearLayout
@@ -161,12 +164,13 @@
             <Button
                 android:id="@+id/button"
                 android:layout_width="170dp"
-                android:layout_height="62dp"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="40dp"
                 android:background="@drawable/abu"
-                android:backgroundTint="#FFEB3B"
-                android:text="Button" />
+                android:backgroundTint="#FFE500"
+                android:textSize="17dp"
+                android:text="Tambah" />
 
         </LinearLayout>
 
