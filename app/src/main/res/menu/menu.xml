@@ -12,4 +12,9 @@
         android:id="@+id/Setting"
         android:icon="@drawable/setting"
         android:title="Setting"/>
+    <item
+        android:id="@+id/akun"
+        android:icon="@drawable/orang"
+        android:title="Account"
+        />
 </menu>

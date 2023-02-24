@@ -34,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.Setting:
                     selectedFragment = new Setting();
                     break;
+                case R.id.akun:
+                    selectedFragment = new Akun();
+                    break;
             }
 
             fragmentChange(selectedFragment);

@@ -11,8 +11,6 @@
         android:layout_width="391dp"
         android:layout_height="337dp"
         android:clipToPadding="true"
-        android:layout_marginTop="90dp"
-        margin
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
